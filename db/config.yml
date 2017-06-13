@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: stocksdb
+  host: localhost
+  user: root
+  pool: 26
